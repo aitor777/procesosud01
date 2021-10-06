@@ -32,7 +32,7 @@ public class App
                 BufferedReader br = new BufferedReader(ir);
 
                 //Instanciamos los objetos que nos permitiran 
-                File prueba = new File("output.txt");
+                File prueba = new File("randoms.txt");
                 BufferedWriter bw = new BufferedWriter(new FileWriter(prueba));
                 
                 System.out.print("Estos son los argumentos utilizados -> " +argumentos+"\n");
@@ -46,6 +46,7 @@ public class App
                     System.out.println(linea);
                     bw.write("\n"+linea);
                 }
+                
                 
                 bw.close();
 

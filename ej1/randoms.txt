@@ -1,0 +1,13 @@
+
+total 44
+drwxrwxr-x 5 batoi batoi 4096 oct  5 16:11 .
+drwxrwxr-x 6 batoi batoi 4096 oct  3 17:29 ..
+-rw-rw-r-- 1 batoi batoi 1039 oct  3 13:51 .classpath
+-rw-rw-r-- 1 batoi batoi    9 oct  3 13:51 .gitignore
+-rw-rw-r-- 1 batoi batoi  515 oct  3 16:32 output.txt
+-rw-rw-r-- 1 batoi batoi 1545 oct  3 13:58 pom.xml
+-rw-rw-r-- 1 batoi batoi  532 oct  3 13:51 .project
+-rw-rw-r-- 1 batoi batoi  570 oct  5 17:17 randoms.txt
+drwxrwxr-x 2 batoi batoi 4096 oct  3 13:51 .settings
+drwxrwxr-x 4 batoi batoi 4096 oct  3 13:51 src
+drwxrwxr-x 9 batoi batoi 4096 oct  3 13:58 target
